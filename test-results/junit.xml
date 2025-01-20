@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="1" failures="0" errors="0" time="0.854">
+  <testsuite name="handler" errors="0" failures="0" skipped="0" timestamp="2025-01-20T08:58:52" time="0.831" tests="1">
+    <testcase classname="handler should modify the request uri using getUriForCompressed" name="handler should modify the request uri using getUriForCompressed" time="0.001">
+    </testcase>
+  </testsuite>
+</testsuites>
